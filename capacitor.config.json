@@ -1,0 +1,13 @@
+{
+  "appId": "com.deepidoo.one",
+  "appName": "One",
+  "bundledWebRuntime": true,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "plugins": {
+	  "SplashScreen": {
+		  "launchShowDuration": 500,
+		  "launchAutoHide": true
+	  }
+  }
+}
